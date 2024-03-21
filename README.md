@@ -1,16 +1,15 @@
-# expense_tracker
+# Expense Tracker
+This is an application for tracking expenses and will also display charts according to the amount of expenses.
 
-A new Flutter project.
+### Notes: 
+This application does not yet have an internal storage feature. All input will be lost when the application is closed
 
-## Getting Started
+## Screenshoots
+![image](https://github.com/CokiNbbn/Expense-Tracker/assets/150018412/8d89a358-84eb-4c66-925d-28cfff8f7dde)
+![image](https://github.com/CokiNbbn/Expense-Tracker/assets/150018412/501ba92a-adce-419f-883f-e3733a9d5241)
+![image](https://github.com/CokiNbbn/Expense-Tracker/assets/150018412/f27d16f3-483d-425a-be0e-f45801f7512a)
+![image](https://github.com/CokiNbbn/Expense-Tracker/assets/150018412/2f88368d-b2f1-4002-8174-0948cd7e0eca)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
